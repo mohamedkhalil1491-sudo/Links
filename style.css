@@ -325,9 +325,8 @@ font-size:17px;
 }
 
 .logo{
-
-width:90px;
-
+    width:280px;
+    height:auto;
 }
 
 nav{
