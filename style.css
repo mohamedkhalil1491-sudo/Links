@@ -35,12 +35,11 @@ nav{
 }
 
 .logo{
-    width:340px;
+    width:400px;
     height:auto;
     display:block;
     margin:0 auto 30px;
 }
-
 .language-switch{
     display:flex;
     gap:10px;
@@ -325,10 +324,9 @@ font-size:17px;
 }
 
 .logo{
-    width:280px;
+    width:340px;
     height:auto;
 }
-
 nav{
 
 flex-direction:column;
