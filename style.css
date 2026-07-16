@@ -22,8 +22,8 @@ body{
     display:flex;
     flex-direction:column;
     justify-content:center;
+    padding:40px 20px;
 }
-
 nav{
     width:90%;
     max-width:1200px;
@@ -35,7 +35,7 @@ nav{
 }
 
 .logo{
-    width:300px;
+    width:340px;
     height:auto;
     display:block;
     margin:0 auto 30px;
